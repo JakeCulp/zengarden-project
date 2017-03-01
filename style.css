@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+@import url('./big.css') screen and (max-width:40rem);
+
+
+header {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+
+	background-image: url("https://raw.githubusercontent.com/JakeCulp/zengarden-project/master/Drexel_vertical_blue.png");
+	background-color: #25537f;
+
+	color: #ffbc4b;;
+}
+
+.summary {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+
+.preamble {
+	
+}
+
+.design-selection {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+
+}
+
+ul {
+		list-style: none;
+}
+
+footer {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	text-align: center;
+	margin
+}
+.design-archives {
+		display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+nav {
+	display: flex;
+	justify-content: center;
+}
+
+.explanation:first-child {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-align: left;
+}
+
+.benefits:first-child {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-align: left;
+}
+
+.participation {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-align: left;
+}
+
+.benefits {
+		display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-align: left;
+}
+
+.requirements {
+		display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-align: left;
+}
+
+h3 {
+	font-family:'Fredoka One', cursive;
+	background-color:#b27611;
+}
+
+p {
+	font-family: 'Merriweather', serif;
+	background-color: 
+}
+
+
+body {
+	background-color: #ffbc4b;
+}
