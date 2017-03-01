@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Fredoka+One')
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 @media screen and (min-width:50rem ){
@@ -42,5 +42,6 @@ section.intro header{
 	float: left;
 }
 
-}
+#zen-supporting.explanation
 
+}
