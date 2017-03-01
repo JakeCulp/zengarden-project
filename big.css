@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One')
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+@media screen and (min-width:50rem ){
+/*Intro/Big Box */
+h3{
+	font-family:'Fredoka One', cursive; 
+}
+
+p{
+	font-family: 'Merriweather', serif;
+}
+section.intro header{
+	text-align: center;
+
+	padding: 10%;
+	padding-bottom: 0;
+}
+.summary{
+		text-align: center;
+		padding-bottom: 10%;
+	}
+
+/* The road to enlightenment*/
+.preamble{
+	overflow:auto;
+}
+.preamble h3{
+	padding: 5%;
+	float: left;
+}
+
+.preamble p{
+	float: right;
+	width:50%;
+
+	padding-right: 5%;
+}
+
+#zen-supporting.explanation h3{
+	padding: 5%;
+	float: left;
+}
+
+}
+
