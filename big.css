@@ -56,4 +56,22 @@ section.intro header{
 	padding-right: 5%;
 }
 
+.participation{
+	overflow:auto;
+	padding: 5%;
+
+}
+
+.participation h3{
+	padding: 5%;
+	float: left;
+}
+
+.participation p{
+	float: right;
+	width:50%;
+	padding-right: 5%;
+}
+
+
 }
