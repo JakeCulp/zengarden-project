@@ -24,6 +24,7 @@ section.intro header{
 /* The road to enlightenment*/
 .preamble{
 	overflow:auto;
+	padding: 5%;
 }
 .preamble h3{
 	padding: 5%;
@@ -37,11 +38,22 @@ section.intro header{
 	padding-right: 5%;
 }
 
-#zen-supporting.explanation h3{
+.explanation{
+		overflow: auto;
+		padding:5%;
+}
+
+
+.explanation h3{
 	padding: 5%;
 	float: left;
 }
 
-#zen-supporting.explanation
+.explanation p{
+	float: right;
+	width:50%;
+
+	padding-right: 5%;
+}
 
 }
